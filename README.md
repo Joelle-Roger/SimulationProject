@@ -1,4 +1,4 @@
-# SimulationProject
+# DesignPatternsProject
 Online CoffeeShop System 
 
 Gana Ahmed  122200007
